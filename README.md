@@ -7,8 +7,8 @@ Non-sorted table search of 200 integers with optimal CPU configuration using Ass
     searches in a non-sorted table 200 marked integers A[i] (i = 0, 1, ... 199) a specific integer X
     and counts the number K of his appearances. The program also counts how many of the
     table numbers are negative (N), how many positive (P), how many zero (G), how many are
-    greater than the required number (B) and how many are less than (S). A, X, K, N, P, Z, B, S
-    must be variable in the data section of your program
+    greater than the required number (B) and how many are less than (S).
+    A, X, K, N, P, Z, B, S are variables in the data section of your program
 
     Configuration changes:
       Enable Forwarding
